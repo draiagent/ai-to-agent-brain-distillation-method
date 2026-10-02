@@ -1,0 +1,19 @@
+{
+  "name": "ai-to-agent-brain-distillation-method",
+  "version": "0.1.0",
+  "date": "2026-10-02",
+  "description": "蒸餾大腦思考方法論：從經驗故事提煉可重用的決策機制，附 M1–M4、知識圖卡、2 小時教案與實作模板。",
+  "topics": [
+    "ai-to-agent",
+    "brain-distillation",
+    "knowledge-transfer",
+    "methodology",
+    "education",
+    "decision-making"
+  ],
+  "website": null,
+  "visibility": null,
+  "license": "reserved",
+  "author_brand": "AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent",
+  "copyright_holder": "AI Coach 益力康陳董"
+}
